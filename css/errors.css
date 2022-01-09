@@ -1,0 +1,84 @@
+:root {
+    --background: #000000;
+    --foreground: #111110;
+}
+
+body {
+    background: var(--foreground);
+}
+
+h1 {
+    font-family: 'Verdana', Sans-serif;
+    height: 0;
+    color: lightgray;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.text {
+    font-family: 'Verdana', Sans-serif;
+    height: 35px;
+    color: lightgray;
+    text-align: center;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.gray-p {
+  font-family: 'Helvetica', Sans-serif;
+  color: gray;
+  font-size: medium;
+  text-align: center;
+}
+
+.vbar {
+    background-color: var(--background);
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 8%;
+    position: fixed;
+}
+
+button {
+  background-color: #1e2124;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 330px;
+  border: none;
+  cursor: pointer;
+  width: 50%;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.main-image {
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -o-border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 170px;
+}
+
+.container {
+  position: fixed;
+  left: 0;
+  bottom: 45%;
+  width: 100%;
+}
+
+@media screen and (max-width: 500px) {
+  span.psw {
+    display: block;
+    float: none;
+  }
+}
