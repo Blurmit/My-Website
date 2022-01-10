@@ -20,6 +20,10 @@
   <img src="./assets/discord.png" draggable="false" height="90" width="90">
 </a>
 
+<a href="/aboutme">
+  <img src="./assets/profile.png" draggable="false" height="85" width="85">
+</a>
+
 <a href="https://github.com/Blurmit">
   <img src="./assets/github.png" draggable="false" height="95" width="95">
 </a>
