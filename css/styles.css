@@ -92,6 +92,13 @@ a:hover {
   width: 100%;
 }
 
+.profile-container {
+  position: fixed;
+  left: 0;
+  bottom: 30%;
+  width: 100%;
+}
+
 @media screen and (max-width: 500px) {
   span.psw {
     display: block;
