@@ -10,7 +10,7 @@
 
 <body>
 
-<div class="container" align="center">
+<div class="profile-container" align="center">
 <a href="https://blurmit.ml">
   <img src="./assets/blurmit.png" class="main-image" draggable="false">
 </a>
