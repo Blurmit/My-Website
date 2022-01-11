@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Blurmit | Error</title>
+<title>Blurmit | Error 400</title>
 <link rel="icon" href="./assets/blurmit.png" class="main-image">
 <link href="./css/errors.css" rel="stylesheet">
 
@@ -14,7 +14,7 @@
 <div class="container" align="center">
 
 <h1 class="text">Error 400</h1>
-<p class="gray-p">Your browser did something weird.</p>
+<p class="gray-p">Your browser did something unexpected. (Try refreshing)</p>
 
 </div>
 
