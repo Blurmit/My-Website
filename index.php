@@ -17,15 +17,15 @@
 <p class="text">Java Developer</p>
 
 <a href="https://discord.com/users/676213665271119921">
-  <img src="./assets/discord.png" draggable="false" height="95" width="95" class="button-images">
+  <img src="./assets/discord.png" draggable="false" height="75" width="75" class="button-images">
 </a>
 
 <a href="/aboutme">
-  <img src="./assets/profile.png" draggable="false" height="95" width="95" class="button-images">
+  <img src="./assets/profile.png" draggable="false" height="75" width="75" class="button-images">
 </a>
 
 <a href="https://github.com/Blurmit">
-  <img src="./assets/github.png" draggable="false" height="95" width="95" class="button-images">
+  <img src="./assets/github.png" draggable="false" height="75" width="75" class="button-images">
 </a>
 
 </div>
