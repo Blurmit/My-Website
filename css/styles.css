@@ -66,7 +66,7 @@ a:hover {
     -o-border-radius: 50%;
     margin-left: auto;
     margin-right: auto;
-    height: 170px;
+    height: 150px;
 }
 
 .button-images {
@@ -81,7 +81,7 @@ a:hover {
 .container {
   position: fixed;
   left: 0;
-  bottom: 35%;
+  bottom: 33%;
   width: 100%;
 }
 
