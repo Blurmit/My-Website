@@ -1,0 +1,29 @@
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Blurmit | About Me</title>
+<link rel="icon" href="./assets/blurmit.png" class="main-image">
+<link href="./css/styles.css" rel="stylesheet">
+</head>
+
+<body>
+
+<div class="container" align="center">
+<a href="https://blurmit.ml">
+  <img src="./assets/blurmit.png" class="main-image" draggable="false">
+</a>
+<h1 class="text">About Me</h1>
+<p class="texty">Hey There! My name is Blurmit.</p>
+
+<p class="texty">I am a Java developer. I mainly work on Minecraft plugins.</p><p class="texty">I'm also currently helping develop a coding language called JPizza.</p><p class="texty"></p><p class="texty">All of my public projects can be found on my Github.</p><p class="texty">If you need to contact me my Discord is Blurmit#3152.</p><p class="texty"></p><p class="texty">That's all :D</p>
+</div>
+
+<div class="footer">    
+<p class="gray-p">Copyright © 2022 Blurmit. All rights reserved.</p>
+</div>
+
+</body>
+
+</html>
