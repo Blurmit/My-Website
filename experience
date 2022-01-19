@@ -1,0 +1,71 @@
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Blurmit | Experience</title>
+<link rel="icon" href="./assets/blurmit.png" class="main-image">
+<link href="./css/styles.css" rel="stylesheet">
+</head>
+
+<body>
+
+<div class="profile-container">
+<a href="https://blurmit.ml">
+  <img src="./assets/blurmit.png" class="main-image" draggable="false">
+</a>
+<h1 class="text">Experience</h1>
+<p class="texty">Here's some of my developing experience!</p>
+</div>
+
+<div class="cards">
+    
+  <div class="card" style="width:100%;max-width:300px;">
+    <img src="./assets/advancius.png" style="width:100%;opacity:0.85">
+      <div class="card-container">
+      <p class="texty">Advancius Network</p>    
+      <p class="gray-p">Advancius is a Minecraft server that averages 80 to 100 players. During my time on Advancius, I was a general developer. I created various plugins for the server as well as handled network-wide bug reports.</p>    
+      </div>
+  </div>
+  <div class="card" style="width:100%;max-width:300px;">
+    <img src="./assets/highlands.png" style="width:100%;opacity:0.85">
+      <div class="card-container">
+      <p class="texty">Highlands MMO</p>    
+      <p class="gray-p">Highlands is a Minecraft server under development. During my time at highlands, I developed the primary API as well as the player stats system. </p>    
+      </div>
+  </div>
+  <div class="card" style="width:100%;max-width:300px;">
+    <img src="./assets/cystal.png" style="width:100%;opacity:0.85">
+      <div class="card-container">
+      <p class="texty">Crystal Cresent</p>    
+      <p class="gray-p">Crystal Cresent is a server that offers a variety of custom gamemodes. There, I was the main developer for the Cystal Cavern gamemode. I handled tickets and bug reports, as well.</p>    
+      </div>
+  </div>
+    
+</div>
+
+<div class="cards-2">
+    
+  <div class="card" style="width:100%;max-width:300px;">
+    
+    <img src="./assets/jpizza.png" style="width:100%;opacity:0.85">
+      <div class="card-container">
+      <p class="texty">JPizza</p>    
+      <p class="gray-p">JPizza is a programming language that is currently in development. JPizza is a language that mixes Python and Java. I worked on a few things on JPizza. I worked on the default libraries and imports and a few bug fixes.</p>    
+      </div>
+    
+  </div>
+  <div class="card" style="width:100%;max-width:300px;">
+    <img src="./assets/shieldx.png" style="width:100%;opacity:0.85">
+      <div class="card-container">
+      <p class="texty">ShieldX Manager</p>    
+      <p class="gray-p">ShieldX was a Discord bot that was in about 300 servers. I was an administrator as well as a developer for ShieldX. I mainly did community management as I don't know much Python.</p>    
+      </div>
+    
+  </div>
+    
+</div>
+
+</body>
+
+</html>
