@@ -101,10 +101,10 @@ img {
 }
 
 .container {
-  overflow: hidden;
-  position: absolute;
-  display: flex;
-  justify-content: center;
+  position: fixed;
+  left: 0;
+  bottom: 33%;
+  width: 100%;
 }
 
 .cards {
@@ -118,10 +118,13 @@ img {
 }
 
 .cards-2 {
-  position: fixed;
-  left: 0;
-  bottom: 33%;
-  width: 100%;
+  overflow: hidden;
+  position: absolute;
+  width: 99.6%;
+  height: 100%;
+  bottom: -100%;
+  display: flex;
+  justify-content: center;
 }
 
 .profile-container {
