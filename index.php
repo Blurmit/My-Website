@@ -30,9 +30,6 @@
 
 </div>
 
-<div class="footer">    
-<p class="gray-p">Copyright © 2022 Blurmit. All rights reserved.</p>
-</div>
 
 </body>
 
