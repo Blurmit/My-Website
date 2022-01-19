@@ -55,10 +55,6 @@ button {
   width: 50%;
 }
 
-a:hover {
-  opacity: 0.7;
-}
-
 .main-image {
     border-radius: 50%;
     -moz-border-radius: 50%;
@@ -68,6 +64,10 @@ a:hover {
     margin-right: auto;
     height: 150px;
     display: flex;
+}
+
+.main-image:hover {
+  opacity: 0.8;
 }
 
 .text-container {
