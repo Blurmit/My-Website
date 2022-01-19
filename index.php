@@ -20,7 +20,7 @@
   <img src="./assets/discord.png" draggable="false" height="75" width="75" class="button-images">
 </a>
 
-<a href="/aboutme">
+<a href="/experience">
   <img src="./assets/profile.png" draggable="false" height="75" width="75" class="button-images">
 </a>
 
