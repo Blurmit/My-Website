@@ -88,7 +88,8 @@ button {
   transition: 0.3s;
   border-radius: 5px;
   height: 50%;
-  margin: 10px 10px auto; 
+  background-color: #1c1c1d;
+  margin: 10px 10px auto;
 }
 
 img {
@@ -97,7 +98,6 @@ img {
 
 .card-container {
   padding: 2px 16px;
-  background-color: #1c1c1d;
 }
 
 .container {
