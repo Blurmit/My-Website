@@ -12,7 +12,7 @@
 <body>
 
 <div class="container" align="center">
-<img src="./assets/blurmit.png" class="main-image" draggable="false">
+<img src="./assets/blurmit.png" class="main-img" draggable="false">
 <h1 class="text">Blurmit</h1>
 <p class="text">Java Developer</p>
 
