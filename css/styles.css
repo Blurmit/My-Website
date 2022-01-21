@@ -15,6 +15,10 @@ h1 {
     text-align: center;
 }
 
+a {
+  text-decoration: none;
+}
+
 .text {
     font-family: 'Verdana', Sans-serif;
     height: 35px;
