@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Blurmit | Snake</title>
 <link rel="icon" href="https://blurmit.ml/assets/blurmit.png" class="main-image">
-<link href="https://blurmit.ml/css/errors.css" rel="stylesheet">
+<link href="https://blurmit.ml/css/styles.css" rel="stylesheet">
 
 <script>
 window.onload=function() {
