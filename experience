@@ -35,18 +35,16 @@
     <img src="./assets/highlands.png" style="width:100%;opacity:0.85">
       <div class="card-container">
       <p class="texty">Highlands MMO</p>    
-      <p class="gray-p">Highlands is a Minecraft MMO server. The server is still in quite a lot of development. During my time at highlands, I was the main quest &amp; API developer.</p>    
+      <p class="gray-p">Highlands is a Minecraft MMO server. The server is still in quite a lot of development. During my time at highlands, I was the main quest &amp; API developer. The project has been put on pause until another owner has been found to take over.</p>    
       </div>
     </a>
   </div>
   <div class="card" style="width:100%;max-width:300px;">
-    <a href="https://crystals-crescent.com/">
     <img src="./assets/cystal.png" style="width:100%;opacity:0.85">
       <div class="card-container">
       <p class="texty">Crystal Cresent</p>    
-      <p class="gray-p">Crystal Cresent is a Minecraft network that offers quite a selection of unique gamemodes. One of them being Cystal Caverns, which I was the main developer of.</p>    
+      <p class="gray-p">Crystal Cresent is a Minecraft network that offers quite a selection of unique gamemodes. One of them being Cystal Caverns, which I was the main developer of. The server has since shutdown as the owners could not continue paying for it.</p>    
       </div>
-    </a>
   </div>
     
 </div>
