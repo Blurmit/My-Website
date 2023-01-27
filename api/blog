@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Blurmit | Blog</title>
+<link rel="icon" href="https://blurmit.ml/assets/blurmit.png" class="main-image">
+<link href="https://Blurmit.ml/css/errors.css" rel="stylesheet">
+</head>
+<body>
+<script>window.onload = function() { document.location = "https://www.youtube.com/watch?v=3_pI6ldtw7I"; }</script>
+
+<div class="container" align="center">
+  <h1 class="text">My Blog</h1>
+  <p class="gray-p">Coming soon...</p>
+</div>
+
+<div class="footer">    
+</div>
+
+</body>
+</html>
