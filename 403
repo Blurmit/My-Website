@@ -4,8 +4,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Blurmit | Error 403</title>
-<link rel="icon" href="https://blurmit.ml/assets/blurmit.png" class="main-image">
-<link href="https://Blurmit.ml/css/errors.css" rel="stylesheet">
+<link rel="icon" href="../assets/blurmit.png" class="main-image">
+<link href="../css/errors.css" rel="stylesheet">
 
 </head>
 

@@ -5,15 +5,15 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Blurmit | Experience</title>
-<link rel="icon" href="https://blurmit.ml/assets/blurmit.png" class="main-image">
-<link href="https://blurmit.ml/css/styles.css" rel="stylesheet">
+<link rel="icon" href="../assets/blurmit.png" class="main-image">
+<link href="../css/styles.css" rel="stylesheet">
 </head>
 
 <body>
 
 <div class="profile-container">
 <a href="https://blurmit.ml">
-  <img src="https://blurmit.ml/assets/blurmit.png" class="main-image" draggable="false">
+  <img src="../assets/blurmit.png" class="main-image" draggable="false">
 </a>
 <h1 class="text">Experience</h1>
 <p class="texty">Here's some of my developing experience!</p>
