@@ -1,6 +1,10 @@
 <?php
+<<<<<<< HEAD
     // PHP
 ?>
+=======
+
+>>>>>>> 5b38f10a9dad6fc1a66ad32c22d3f49e48d1e644
 <!DOCTYPE html>
 <html lang="en">
     
