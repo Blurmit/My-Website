@@ -1,9 +1,11 @@
-<!DOCTYPE html>
+<?php
+    // PHP
+?>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Blurmit | Error 400</title>
+<title>Blurmit | Error 403</title>
 <link rel="icon" href="../assets/blurmit.png" class="main-image">
 <link href="../css/errors.css" rel="stylesheet">
 
@@ -13,8 +15,8 @@
 
 <div class="container" align="center">
 
-<h1 class="text">Error 400</h1>
-<p class="gray-p">Your browser did something unexpected. (Try refreshing)</p>
+<h1 class="text">Error 403</h1>
+<p class="gray-p">You do not have permission to view this resource.</p>
 
 </div>
 

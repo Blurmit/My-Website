@@ -1,3 +1,6 @@
+<?php
+    // PHP
+?>
 <!DOCTYPE html>
 <html lang="en">
     

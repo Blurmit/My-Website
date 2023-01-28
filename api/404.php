@@ -1,9 +1,12 @@
+<?php
+    // PHP
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Blurmit | Error 403</title>
+<title>Blurmit | Error 404</title>
 <link rel="icon" href="../assets/blurmit.png" class="main-image">
 <link href="../css/errors.css" rel="stylesheet">
 
@@ -13,8 +16,8 @@
 
 <div class="container" align="center">
 
-<h1 class="text">Error 403</h1>
-<p class="gray-p">You do not have permission to view this resource.</p>
+<h1 class="text">Error 404</h1>
+<p class="gray-p">Page not found!</p>
 
 </div>
 
