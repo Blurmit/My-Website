@@ -29,6 +29,12 @@ body {
 
     width: 10rem;
     height: 10rem;
+
+    cursor: pointer;
+}
+
+.profile-image:hover {
+    opacity: 0.5;
 }
 
 .title-text {
@@ -53,7 +59,7 @@ body {
     align: center;
 
     width: 70%;
-    left: 20%;
+    left: 23%;
 }
 
 .card {
@@ -65,7 +71,7 @@ body {
     background-color: #1c1c1d;
     margin: 10px 10px auto;
 
-    width: 20vw;
+    width: 17vw;
     float: left;
 
     cursor: pointer;
