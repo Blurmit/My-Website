@@ -7,6 +7,6 @@
   "routes": [
     { "src": "/experience",  "dest": "/experience.html" },
     { "src":  "/snake", "dest":  "/snake.html" },
-    { "src":  "/", "dest":  "api/index.php" }
+    { "src":  "/", "dest":  "/home.html" }
   ]
 }

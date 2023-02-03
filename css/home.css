@@ -1,0 +1,87 @@
+:root {
+    --background: #111110;
+}
+
+body {
+    background: var(--background);
+
+    font-family: 'Verdana', Sans-serif;
+    line-height: 0.5;
+    text-align: center;
+    color: lightgray;
+
+    align: center;
+    overflow: hidden;
+}
+
+.profile-container {
+    display: inline-block;
+    position: absolute;
+    align: center;
+
+    top: 40%;
+    left: 50%;
+
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -40%);
+}
+
+.profile-image {
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -o-border-radius: 50%;
+
+    width: 10rem;
+    height: 10rem;
+
+    min-width: 45%;
+    max-width: 100%;
+    min-height: 45%;
+    max-height: 100%;
+}
+
+.image-buttons-container {
+    display: flex;
+    position: absolute;
+    align: center;
+    justify-content: space-around;
+
+    top: 45%;
+    left: 50%;
+
+    width: 15rem;
+
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, 200%);
+}
+
+.image-button {
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -o-border-radius: 50%;
+
+    width: 4rem;
+    height 4rem;
+
+    cursor: pointer;
+}
+
+.image-button:hover {
+    opacity: 0.5;
+}
+
+.title-text {
+    font-weight: bold;
+    font-size: 2rem;
+
+    line-height: 0;
+}
+
+.subtitle-text {
+    font-weight: normal;
+    font-size: 1rem;
+
+    line-height: 1;
+}
