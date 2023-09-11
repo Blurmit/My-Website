@@ -26,11 +26,13 @@
                 setInterval(game, 1000 / 15);
             }
 
+            tc = 50;
+            tcw = 100;
             px = py = 10;
-            gs = tc = 20;
+            gs = 20;
             ax = ay = 15;
             xv = yv = 0;
-            trail= [] ;
+            trail = [];
             tail = 5;
 
             function game() {
@@ -38,10 +40,10 @@
                 py += yv;
 
                 if (px < 0) {
-                    px = tc - 1;
+                    px = tcw - 1;
                 }
 
-                if (px > tc - 1) {
+                if (px > tcw - 1) {
                     px = 0;
                 }
 
@@ -78,7 +80,7 @@
  
                 if (ax == px && ay == py) {
                     tail++;
-                    ax = Math.floor(Math.random() * tc);
+                    ax = Math.floor(Math.random() * tcw);
                     ay = Math.floor(Math.random() * tc);
                 }
     
